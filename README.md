@@ -11,10 +11,10 @@ Project Management,BSC.
 ##### Project Management Intern
 ##### Federal Airport Authority of Nigeria (FAAN) 
 ##### October 2024
--Track expenses and verify with purchase orders, helping ensure budget compliance.
+- Track expenses and verify with purchase orders, helping ensure budget compliance.
 - Research and present ideas for sustainable construction practices (e.g., energy-saving materials, waste reduction).
--Create dashboards or reports for project progress, budget tracking, and labor utilization.
--Conduct post-construction analysis to evaluate time, cost, and quality performance.
+- Create dashboards or reports for project progress, budget tracking, and labor utilization.
+- Conduct post-construction analysis to evaluate time, cost, and quality performance.
 - Assist in preparing and updating construction schedules, timelines, and project plans.
 
 #### Business Development Specialist - Remote
