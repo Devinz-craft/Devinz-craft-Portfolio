@@ -8,6 +8,27 @@ Project Management,BSC.
 
 ### Work Experienece
 
+Project Management Intern
+Federal Airport Authority of Nigeria (FAAN) 
+-Track expenses and verify with purchase orders, helping ensure budget compliance.
+- Research and present ideas for sustainable construction practices (e.g., energy-saving materials, waste reduction).
+-Create dashboards or reports for project progress, budget tracking, and labor utilization.
+-Conduct post-construction analysis to evaluate time, cost, and quality performance.
+- Assist in preparing and updating construction schedules, timelines, and project plans.
+
+Business Development Specialist - Remote
+Axon Clinical Research, Maryland, United State.
+October 2023 
+- Supported product strategy by developing data-driven insights for clinical study operations, contributing to recruitment and site management strategies.
+- Applied SQL to analyze product usage and identify key areas for optimization, enhancing patient satisfaction and engagement.
+- Conducted competitor analysis and created performance reports, helping shape strategic decisions and improve study site acquisition rates by 20%.
+- Used Tableau to create visual reports, aiding management in monitoring key performance indicators and improving decision-making.
+
+Website Editor-- Contract  
+German Academic & Logistic Services 
+- Managed website content and performed routine maintenance, supporting online visibility and customer engagement.
+- Implemented graphic design and content strategies, contributing to a 15% increase in web traffic.
+
 
 
 ### Projects
