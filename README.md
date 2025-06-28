@@ -26,7 +26,8 @@ Project Management,BSC.
 - Used Tableau to create visual reports, aiding management in monitoring key performance indicators and improving decision-making.
 
 #### Website Editor-- Contract  
-German Academic & Logistic Services 
+##### German Academic & Logistic Services 
+##### December 2022
 - Managed website content and performed routine maintenance, supporting online visibility and customer engagement.
 - Implemented graphic design and content strategies, contributing to a 15% increase in web traffic.
 
