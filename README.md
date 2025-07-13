@@ -7,10 +7,10 @@
 Project Management,BSC. September, 2025.
 
 ###                                                      ***Skills Summary***
-- **Language**: Python, SQL, R.
-- **Frameworks**: Pandas, Numpy , Plotly, Matplotlib, Scikit-Learn.
-- **Tools**: Power Bi, Excel, Mysql
-- **IDE**: Jupyter Notebook , R-studio
+- **Language:** Python, SQL, R.
+- **Frameworks:** Pandas, Numpy , Plotly, Matplotlib, Scikit-Learn.
+- **Tools:** Power Bi, Excel, Mysql
+- **IDE:** Jupyter Notebook , R-studio
 
 
 ## Work Experienece
